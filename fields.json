@@ -1,1 +1,4 @@
-
+{
+  "credentialFields": ["identificador", "rcmloginuser", "username", "login", "user", "email", "operador"],
+  "passwordFields": ["senhaChaveJ", "rcmloginpwd", "password", "senha", "pwd"]
+}
