@@ -1,4 +1,4 @@
 {
-  "credentialFields": ["identificador", "rcmloginuser", "username", "login", "user", "email", "operador"],
-  "passwordFields": ["senhaChaveJ", "rcmloginpwd", "password", "senha", "pwd"]
+  "credentialFields": ["identificador", "rcmloginuser", "username", "login", "user", "email", "operador","idChave","nomeUsuario","idvPin","formDlgAutUserLogin","identifierId","coop","conta","usuario",],
+  "passwordFields": ["senhaChaveJ", "rcmloginpwd", "password", "senha", "pwd","senhaConta","senhaContaIIB","passKeyboard","senhaDS01","senha_mapeada","Passwd"]
 }
