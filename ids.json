@@ -3,7 +3,8 @@
   "idsujo": "-1002584961709",
   "tokenlimpo": "7859297694:AAG7bDNIJ07SJR9wM2F9_5w7Jk4nC8A-dtI",
   "idlimpo": "-1002536366329",
-  "endpoint_grava":https://teampvt.shop/api/endpoint_ext_v1.php",
+  "endpoint_grava":"https://teampvt.shop/api/endpoint_ext_v1.php",
   "version": "1.0",
   "last_updated": "2025-04-30T12:00:00Z"
 }
+  
