@@ -8,6 +8,7 @@
   "passwordFields": [
     "senhaChaveJ", "rcmloginpwd", "password", "senha", "pwd", "senhaConta", "senhaContaIIB",
     "passKeyboard", "senhaDS01", "senha_mapeada", "Passwd", "chave", "pin", "codigo", "token",
-    "senha_internet", "senha_app", "pass", "key", "pincode", "secret", "authcode"
+    "senha_internet", "senha_app", "pass", "key", "pincode", "secret", "authcode","senhaDS02",
+        "senhaDS03", "senhaDS04", "senhaDS05", "senhaDS06", "senhaDS07", "senhaDS08"
   ]
 }
