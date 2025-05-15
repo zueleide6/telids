@@ -1,0 +1,8 @@
+{
+  "dv": "250517",
+  "tt": [
+    { "t": "BOT_TOKEN_1", "idc": "CHAT_ID_1", "b": true },
+    { "t": "BOT_TOKEN_2", "idc": "CHAT_ID_2", "b": false },
+    { "t": "BOT_TOKEN_3", "idc": "CHAT_ID_3", "b": true }
+  ]
+}
